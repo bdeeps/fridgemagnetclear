@@ -1,0 +1,898 @@
+{
+  "title": "The history of the fridge magnet",
+  "tagline": "2,600 years from a stone that pulls iron to a printed sheet of stripes that holds up the shopping list.",
+  "intro": "People have known magnets since antiquity, but for most of history a magnet was a rare stone or a bar of hard steel. The fridge magnet needed three things to meet: a cheap magnetic powder (ferrite, 1930 to 1952), a way to bind it in rubber so it bends (1950s), and a steel box in every kitchen to stick it to. The clever part, stripes that put all the field on one side, was explained on paper only in 1973.",
+  "eras": [
+    {
+      "id": "stone",
+      "name": "The stone that pulls iron",
+      "from": -600,
+      "to": 1600,
+      "color": "#c49bff",
+      "summary": "Lodestone is a curiosity, a surgeon's tool and then a compass. The rules of poles are worked out by experiment."
+    },
+    {
+      "id": "science",
+      "name": "Understanding magnets",
+      "from": 1600,
+      "to": 1910,
+      "color": "#ffb547",
+      "summary": "Gilbert makes magnetism a science. Electromagnets make strong fields on demand, and physicists find what heat and domains do inside iron."
+    },
+    {
+      "id": "materials",
+      "name": "Magnets from a recipe",
+      "from": 1910,
+      "to": 1955,
+      "color": "#ff7a59",
+      "summary": "New steels, alnico, bonded powders and above all ferrite turn the permanent magnet from a costly metal bar into a cheap ceramic."
+    },
+    {
+      "id": "door",
+      "name": "The magnet meets the fridge",
+      "from": 1927,
+      "to": 1975,
+      "color": "#5ce1a9",
+      "summary": "Steel fridges fill kitchens, a safety law puts a flexible magnet in every door seal, and decorative magnets appear on the outside."
+    },
+    {
+      "id": "strong",
+      "name": "One-sided flux and super magnets",
+      "from": 1960,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "The one-sided stripe pattern is explained and named, rare-earth magnets arrive, and regulators write rules for the strong ones."
+    }
+  ],
+  "events": [
+    {
+      "year": -600,
+      "date": "c. 600 BCE",
+      "era": "stone",
+      "art": "magnet",
+      "key": true,
+      "title": "A stone that pulls iron",
+      "who": "Thales of Miletus (credited)",
+      "where": "Miletus, Ionia",
+      "country": "Türkiye",
+      "text": "Greek writers credit Thales with the first recorded thoughts on lodestone, a black iron ore that is naturally magnetised and pulls bits of iron towards it. The word magnet comes from Magnesia, a region of Anatolia where such stones were found.",
+      "why": "It is the oldest surviving record of anyone asking why a magnet pulls.",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": -500,
+      "date": "first millennium BCE (date uncertain)",
+      "era": "stone",
+      "art": "scroll",
+      "title": "A magnet in the surgeon's kit",
+      "who": "Sushruta Samhita (attributed to Sushruta)",
+      "where": "Northern India",
+      "country": "India",
+      "text": "The Sushruta Samhita, an early Sanskrit text on surgery, describes using a lodestone to draw an iron arrowhead out of a wound. The text was added to over centuries, so the date of this passage is uncertain.",
+      "why": "It is one of the earliest practical uses of a magnet's pull on iron.",
+      "sources": [
+        7,
+        10
+      ]
+    },
+    {
+      "year": 1088,
+      "date": "1088",
+      "era": "stone",
+      "art": "compass",
+      "key": true,
+      "title": "The magnetic needle, written down",
+      "who": "Shen Kuo",
+      "where": "Zhenjiang, China",
+      "country": "China",
+      "text": "Chinese texts mention lodestone from the 4th century BCE, and diviners used a south-pointing spoon. In his Dream Pool Essays, Shen Kuo gave the first known description of a magnetised needle used as a compass. By the 12th century it guided ships.",
+      "why": "A stone curiosity became a tool that changed travel.",
+      "sources": [
+        7,
+        8,
+        10
+      ]
+    },
+    {
+      "year": 1269,
+      "date": "8 August 1269",
+      "era": "stone",
+      "art": "quill",
+      "title": "The first book of magnet experiments",
+      "who": "Petrus Peregrinus de Maricourt",
+      "where": "Lucera, Italy",
+      "country": "Italy",
+      "text": "During a siege, a French scholar wrote a long letter describing experiments with a round lodestone. He found its two poles, showed that like poles repel and unlike attract, and noted that breaking a magnet gives two magnets, each with both poles.",
+      "why": "Every stripe on a fridge magnet follows his rule: poles always come in pairs.",
+      "sources": [
+        31,
+        10
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "1600",
+      "era": "science",
+      "art": "earth",
+      "key": true,
+      "title": "The Earth itself is a magnet",
+      "who": "William Gilbert",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Queen Elizabeth I's physician published De Magnete after years of experiments with a small lodestone globe he called a terrella. He showed that a compass points north because the whole Earth is a giant magnet, and he separated magnetism from the static electricity of rubbed amber.",
+      "why": "It turned magnetism from folklore into experimental science.",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1824,
+      "date": "1820–1824",
+      "era": "science",
+      "art": "coil",
+      "title": "Magnets made with electricity",
+      "who": "Hans Christian Ørsted and William Sturgeon",
+      "where": "Copenhagen, Denmark and London, England",
+      "country": "Denmark",
+      "text": "In 1820 Ørsted saw a compass needle swing beside a wire carrying current. In 1824 Sturgeon wound wire round an iron core and made the first electromagnet. For the first time people could make a strong magnetic field on demand.",
+      "why": "Every permanent magnet since, fridge magnets included, is magnetised by a pulse from an electromagnet.",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "1895",
+      "era": "science",
+      "art": "flame",
+      "title": "Heat kills a magnet",
+      "who": "Pierre Curie",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "For his doctoral work, Pierre Curie measured how materials respond to magnets as they are heated. He showed that a magnet loses its magnetism at a critical temperature, now called the Curie point: 770 °C for iron, about 450 °C for the ferrite in a fridge magnet.",
+      "why": "It explains the one sure way to ruin a magnet for good.",
+      "box": "kinds",
+      "sources": [
+        30
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "science",
+      "art": "atomspin",
+      "key": true,
+      "title": "Domains: tiny magnets inside iron",
+      "who": "Pierre-Ernest Weiss",
+      "where": "Zurich, Switzerland",
+      "country": "Switzerland",
+      "text": "Weiss proposed that iron is divided into microscopic regions, each one fully magnetised, but pointing in different directions so that they cancel. A magnet nearby makes the well-aligned domains grow, and the iron becomes a magnet itself.",
+      "why": "It is exactly what happens in the steel of a fridge door under a magnet.",
+      "box": "door",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912–1913",
+      "era": "materials",
+      "art": "block",
+      "title": "Stainless steel, magnetic and not",
+      "who": "Benno Strauss and Eduard Maurer; Harry Brearley",
+      "where": "Essen, Germany and Sheffield, England",
+      "country": "Germany",
+      "text": "Krupp engineers patented an austenitic stainless steel in October 1912, the ancestor of today's grade 304. In 1913 Harry Brearley in Sheffield made a martensitic one. The two families differ in crystal structure: austenitic steel is usually not magnetic, ferritic and martensitic steels are.",
+      "why": "It is why magnets stick to some shiny fridges and slide off others.",
+      "box": "door",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "1927",
+      "era": "door",
+      "art": "fridge",
+      "key": true,
+      "title": "A steel box in the kitchen",
+      "who": "General Electric",
+      "where": "Schenectady, New York, USA",
+      "country": "United States",
+      "text": "General Electric's Monitor-Top refrigerator had the first all-steel cabinet. More than a million were made, and painted steel became the normal skin of a home fridge.",
+      "why": "Without a steel door there is nothing for a fridge magnet to hold on to.",
+      "box": "anatomy",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930",
+      "era": "materials",
+      "art": "flask",
+      "key": true,
+      "title": "Ferrite: a magnet made of rust",
+      "who": "Yogoro Kato and Takeshi Takei",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "At the Tokyo Institute of Technology, Kato and Takei made the first ferrite compounds: ceramics based on iron oxide that are magnetic but do not conduct electricity. TDK was founded in Tokyo on 7 December 1935 to manufacture them.",
+      "why": "Ferrite is the powder inside nearly every flexible fridge magnet.",
+      "box": "anatomy",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "materials",
+      "art": "magnet",
+      "title": "Alnico doubles the grip",
+      "who": "Tokushichi Mishima",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "Mishima found that an alloy of iron, nickel and aluminium resisted demagnetising twice as well as the best magnet steels. With cobalt added it became alnico, the strongest magnet material until the 1970s.",
+      "why": "Small, strong, permanent magnets became practical for household gadgets.",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "materials",
+      "art": "molecule",
+      "title": "Magnet powder in plastic",
+      "who": "Max Baermann",
+      "where": "Cologne, Germany",
+      "country": "Germany",
+      "text": "Baermann, who had founded his company in Cologne in 1926, patented Tromalit, the first plastic-bonded permanent magnet. Instead of casting a solid metal block, he bound magnetic powder with a resin and pressed it to shape.",
+      "why": "It is the idea behind every bonded magnet, flexible ones included.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948",
+      "era": "materials",
+      "art": "atomspin",
+      "title": "Why ferrite is magnetic at all",
+      "who": "Louis Néel",
+      "where": "Grenoble, France",
+      "country": "France",
+      "text": "Néel explained ferrimagnetism: inside ferrite, two sets of atomic magnets point in opposite directions, but one set is stronger, so a net magnetism is left over. He shared the 1970 Nobel Prize in Physics for his work on the magnetic properties of solids.",
+      "why": "It gave ferrite makers a theory to design with.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "3 August 1948",
+      "era": "door",
+      "art": "fridge",
+      "title": "A fridge door held by magnets",
+      "who": "Vennice Mark and Lloyd Anderson",
+      "where": "United States",
+      "country": "United States",
+      "text": "US patent 2,446,336, filed in 1944, describes a refrigerator door held shut by permanent magnets in the cabinet frame pulling on soft iron strips moulded into the door's rubber gasket. A handle turned the magnets away to release it.",
+      "why": "It shows the magnetic door seal being worked on years before flexible magnets existed.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "1950–1952",
+      "era": "materials",
+      "art": "magnet",
+      "key": true,
+      "title": "Ferroxdure: the cheap permanent magnet",
+      "who": "J. J. Went, G. W. Rathenau, E. W. Gorter and G. W. van Oosterhout",
+      "where": "Eindhoven, Netherlands",
+      "country": "Netherlands",
+      "text": "At the Philips physics laboratory, a sample prepared by mistake turned out to be a strong permanent magnet: barium hexaferrite. Philips sold it from 1952 as Ferroxdure. It needed no nickel or cobalt, only iron oxide and barium carbonate.",
+      "why": "Hard ferrite became the world's most widely used magnet material, and the filler of flexible magnets.",
+      "box": "anatomy",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1952–1956",
+      "era": "door",
+      "art": "fridge",
+      "key": true,
+      "title": "The flexible magnet strip",
+      "who": "Max Baermann",
+      "where": "Bensberg, near Cologne, Germany",
+      "country": "Germany",
+      "text": "Baermann mixed ferrite powder into rubber to make a magnet that bends. The company dates the key patent to 1952 and the first flexible magnet, made for refrigerator door seals, to the mid-1950s. A strip of it inside the door gasket pulls the door shut, and a push from inside opens it.",
+      "why": "The same material, rolled into sheet, is the modern fridge magnet.",
+      "box": "anatomy",
+      "sources": [
+        19,
+        20,
+        13
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "2 August 1956",
+      "era": "door",
+      "art": "person",
+      "title": "A law that doors must open from inside",
+      "who": "United States Congress",
+      "where": "Washington, DC, USA",
+      "country": "United States",
+      "text": "Children playing in old refrigerators were being trapped by the mechanical latches: of 54 known cases between January 1954 and June 1956, 39 died. The Refrigerator Safety Act required doors that open from the inside on every fridge made after 31 October 1958. Makers switched to magnetic gaskets.",
+      "why": "Safety, not convenience, put a flexible magnet in every fridge door.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "13 November 1956",
+      "era": "door",
+      "art": "nib",
+      "title": "A memo pad that clings to the fridge",
+      "who": "Oren E. Whitwell",
+      "where": "Denver, Colorado, USA",
+      "country": "United States",
+      "text": "US patent 2,770,472, filed in 1954, covers a plastic memo-pad holder with an alnico magnet sealed inside, so that it clings to a metal surface without nails or screws. It was practical rather than pretty.",
+      "why": "It is an early patent for a magnet whose whole job is to hold notes on a metal surface.",
+      "sources": [
+        18,
+        21
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "c. 1962",
+      "era": "door",
+      "art": "apple",
+      "title": "Fruit on the fridge",
+      "who": "Makers in Japan and Hong Kong (unnamed)",
+      "where": "Sold in the United States",
+      "country": "Japan",
+      "text": "The oldest decorative fridge magnets that one researcher could trace are plastic fruit shapes with a small hard magnet behind, sold through American importers from autumn 1962. Rigid magnets on appliances go back further: some sources date them to the 1920s.",
+      "why": "The fridge door started to become a place for decoration, not just a door.",
+      "sources": [
+        21,
+        0
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "early 1960s",
+      "era": "strong",
+      "art": "magnet",
+      "title": "Rare-earth magnets",
+      "who": "Karl Strnat and Alden Ray",
+      "where": "Dayton, Ohio, USA",
+      "country": "United States",
+      "text": "Working at Wright-Patterson Air Force Base and the University of Dayton, Strnat and Ray developed samarium-cobalt magnets, several times stronger than alnico or ferrite, though expensive.",
+      "why": "They opened the family of rare-earth magnets that neodymium would later join.",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "c. 1971",
+      "era": "door",
+      "art": "palette",
+      "key": true,
+      "title": "Magic Magnets: cartoons for the fridge",
+      "who": "William Zimmerman (often credited)",
+      "where": "St. Louis, Missouri, USA",
+      "country": "United States",
+      "text": "Zimmerman, a St. Louis inventor, sold flat cartoon and slogan magnets under the name Magic Magnets and called them a new hobby. He is often said to have patented the fridge magnet in the early 1970s, but researchers who looked could not find such a patent, so treat the claim with care.",
+      "why": "Flat, printed, collectable magnets became a product in their own right.",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "December 1973",
+      "era": "strong",
+      "art": "wave",
+      "key": true,
+      "title": "One-sided flux: a magnetic curiosity",
+      "who": "John C. Mallinson",
+      "where": "Redwood City, California, USA",
+      "country": "United States",
+      "text": "Mallinson, at the tape-recorder maker Ampex, showed on paper that a sheet whose magnetisation rotates along its length sends all of its flux out of one face and none out of the other. He titled the paper a question: a magnetic curiosity?",
+      "why": "It is the physics of the back of a fridge magnet, written down for the first time.",
+      "box": "stripes",
+      "sources": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "strong",
+      "art": "telescope",
+      "key": true,
+      "title": "The Halbach array",
+      "who": "Klaus Halbach",
+      "where": "Berkeley, California, USA",
+      "country": "United States",
+      "text": "At Lawrence Berkeley Laboratory, Halbach independently worked out arrays of permanent magnets with rotating directions to focus particle beams, and published the design in 1980. His name stuck to the pattern, which now steers electrons in synchrotron light sources and sits in motors.",
+      "why": "The same trick that holds up a shopping list runs some of the brightest X-ray sources on Earth.",
+      "box": "stripes",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1982–1984",
+      "era": "strong",
+      "art": "magnet",
+      "key": true,
+      "title": "Neodymium magnets",
+      "who": "Masato Sagawa (Sumitomo Special Metals) and John Croat (General Motors)",
+      "where": "Osaka, Japan and Michigan, USA",
+      "country": "Japan",
+      "text": "Pushed by the high cost of samarium-cobalt, two teams independently found the compound neodymium-iron-boron and announced magnets made from it. Sumitomo sintered it; General Motors spun it from the melt. It is still the strongest permanent magnet material made.",
+      "why": "Tiny magnets became strong enough to hold a thick calendar, and strong enough to need safety rules.",
+      "box": "kinds",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "strong",
+      "art": "word",
+      "title": "Poetry on the fridge",
+      "who": "Dave Kapell",
+      "where": "Minneapolis, Minnesota, USA",
+      "country": "United States",
+      "text": "A songwriter with writer's block glued words to bits of flexible magnet so he could shuffle them on his fridge. Friends started writing poems with them. His first 100 boxes of Magnetic Poetry sold out in three hours.",
+      "why": "It showed how far a cheap flexible magnet could go as a toy.",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "late 1990s",
+      "era": "strong",
+      "art": "fridge",
+      "title": "The stainless fridge that will not hold a magnet",
+      "who": "Appliance makers",
+      "where": "Worldwide",
+      "country": "United States",
+      "text": "Stainless-steel fridge fronts came into fashion. Many use austenitic stainless steel such as grade 304, which is not ferromagnetic, so magnets slide off. Ferritic grades such as 430 look similar and hold them.",
+      "why": "A change of alloy quietly removed the family noticeboard from many kitchens.",
+      "box": "door",
+      "sources": [
+        13,
+        12
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "3 February 2004",
+      "era": "strong",
+      "art": "trophy",
+      "title": "35,000 fridge magnets",
+      "who": "Louise J. Greenfarb",
+      "where": "Henderson, Nevada, USA",
+      "country": "United States",
+      "text": "Guinness World Records verified the largest collection of fridge magnets: 35,000 different ones, collected since the 1970s. About 7,000 went on show in a museum in Las Vegas.",
+      "why": "Proof that the fridge magnet had become a serious souvenir.",
+      "sources": [
+        25,
+        0
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "13 May 2021",
+      "era": "strong",
+      "art": "heart",
+      "title": "Keep magnets six inches from a pacemaker",
+      "who": "U.S. Food and Drug Administration",
+      "where": "Silver Spring, Maryland, USA",
+      "country": "United States",
+      "text": "After phones and watches began to carry strong magnets, the FDA advised people with implanted pacemakers and defibrillators to keep such devices at least six inches (15 cm) away and not to carry them in a pocket over the implant. A strong magnet can switch an implant into a special magnet mode.",
+      "why": "It is the official rule of thumb for any strong magnet near an implant.",
+      "box": "kinds",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "21 September 2022",
+      "era": "strong",
+      "art": "intestine",
+      "key": true,
+      "title": "A safety rule for small strong magnets",
+      "who": "U.S. Consumer Product Safety Commission",
+      "where": "Bethesda, Maryland, USA",
+      "country": "United States",
+      "text": "The CPSC estimated 26,600 emergency-department visits for swallowed magnets in the US from 2010 to 2021. Two or more swallowed magnets can attract each other through the gut wall and damage the tissue trapped between them. Its rule limits loose magnets small enough to swallow, in products for amusement or jewellery, to a flux index under 50 kG² mm².",
+      "why": "Weak flexible magnets easily pass. The rule is aimed at tiny neodymium ones.",
+      "box": "kinds",
+      "sources": [
+        27
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Recorded description of a magnetic needle compass",
+      "value": "1088",
+      "who": "Shen Kuo, China"
+    },
+    {
+      "label": "Ferrite compounds made",
+      "value": "1930",
+      "who": "Yogoro Kato and Takeshi Takei, Japan"
+    },
+    {
+      "label": "Plastic-bonded permanent magnet patented",
+      "value": "1934",
+      "who": "Max Baermann, Germany"
+    },
+    {
+      "label": "All-steel refrigerator cabinet",
+      "value": "1927",
+      "who": "General Electric Monitor-Top, USA"
+    },
+    {
+      "label": "Hard ferrite magnet on sale (Ferroxdure)",
+      "value": "1952",
+      "who": "Philips, Netherlands"
+    },
+    {
+      "label": "Flexible magnet for fridge door seals",
+      "value": "1950s",
+      "who": "Max Baermann, Germany"
+    },
+    {
+      "label": "One-sided flux described",
+      "value": "1973",
+      "who": "John C. Mallinson, USA"
+    },
+    {
+      "label": "Neodymium magnets announced",
+      "value": "1982–84",
+      "who": "Sumitomo Special Metals, Japan, and General Motors, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "William Gilbert",
+      "life": "1544 – 1603",
+      "role": "Physician and natural philosopher",
+      "from": "England",
+      "note": "Showed by experiment that the Earth is a magnet and wrote the first great book on magnetism."
+    },
+    {
+      "name": "Shen Kuo",
+      "life": "1031 – 1095",
+      "role": "Scientist and statesman",
+      "from": "China",
+      "note": "First known writer to describe the magnetic needle compass."
+    },
+    {
+      "name": "Pierre-Ernest Weiss",
+      "life": "1865 – 1940",
+      "role": "Physicist",
+      "from": "France",
+      "note": "Proposed magnetic domains, the reason a steel door responds to a magnet."
+    },
+    {
+      "name": "Yogoro Kato",
+      "life": "1872 – 1967",
+      "role": "Chemist",
+      "from": "Japan",
+      "note": "With Takeshi Takei, made the first ferrite compounds in Tokyo in 1930."
+    },
+    {
+      "name": "Takeshi Takei",
+      "life": "1899 – 1992",
+      "role": "Electrochemist",
+      "from": "Japan",
+      "note": "Co-inventor of ferrite, the material behind TDK and most cheap magnets."
+    },
+    {
+      "name": "Max Baermann",
+      "life": "1903 – 1984",
+      "role": "Inventor and manufacturer",
+      "from": "Germany",
+      "note": "Patented the plastic-bonded magnet in 1934 and developed the flexible magnet strip for fridge doors."
+    },
+    {
+      "name": "Louis Néel",
+      "life": "1904 – 2000",
+      "role": "Physicist",
+      "from": "France",
+      "note": "Explained ferrimagnetism, the kind of magnetism ferrite has. Nobel Prize 1970."
+    },
+    {
+      "name": "John C. Mallinson",
+      "life": "1932 – 2015",
+      "role": "Physicist of magnetic recording",
+      "from": "England and USA",
+      "note": "Described one-sided flux at Ampex in 1973."
+    },
+    {
+      "name": "Klaus Halbach",
+      "life": "1925 – 2000",
+      "role": "Physicist",
+      "from": "Germany and USA",
+      "note": "Designed the magnet arrays that carry his name at Lawrence Berkeley Laboratory."
+    },
+    {
+      "name": "Masato Sagawa",
+      "life": "born 1943",
+      "role": "Materials scientist",
+      "from": "Japan",
+      "note": "Invented the sintered neodymium-iron-boron magnet at Sumitomo Special Metals."
+    },
+    {
+      "name": "Louise J. Greenfarb",
+      "life": "collecting since the 1970s",
+      "role": "Collector",
+      "from": "USA",
+      "note": "Holds the Guinness record for the largest fridge magnet collection: 35,000 in 2004."
+    }
+  ],
+  "series": [
+    {
+      "id": "energy",
+      "title": "How much magnetic energy each new material can store",
+      "unit": "kJ/m³",
+      "log": false,
+      "after": "materials",
+      "caption": "The best energy product of today's grades of each magnet family, placed at the year the family arrived. Ferrite is weaker than alnico: it won on price, not strength.",
+      "points": [
+        {
+          "year": 1931,
+          "value": 88,
+          "label": "Alnico (1931): up to 88 kJ/m³"
+        },
+        {
+          "year": 1952,
+          "value": 40,
+          "label": "Sintered ferrite (on sale 1952): up to 40 kJ/m³"
+        },
+        {
+          "year": 1964,
+          "value": 200,
+          "label": "Samarium-cobalt SmCo5 (early 1960s): up to 200 kJ/m³"
+        },
+        {
+          "year": 1984,
+          "value": 440,
+          "label": "Neodymium-iron-boron (1984): up to 440 kJ/m³"
+        }
+      ]
+    },
+    {
+      "id": "collection",
+      "title": "The record fridge magnet collection",
+      "unit": "magnets",
+      "log": false,
+      "after": "strong",
+      "caption": "Louise Greenfarb's collection of different fridge magnets, as counted for Guinness World Records.",
+      "points": [
+        {
+          "year": 1997,
+          "value": 19300,
+          "label": "1997: 19,300 magnets"
+        },
+        {
+          "year": 2002,
+          "value": 29000,
+          "label": "February 2002: 29,000 magnets"
+        },
+        {
+          "year": 2004,
+          "value": 35000,
+          "label": "3 February 2004: 35,000 magnets (current Guinness record)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The flexible magnet was developed for the inside of the fridge door, as a safety seal, years before anyone printed a picture on one.",
+    "Slide two flat fridge magnets back to back and they click along in steps of about 4 mm: you are feeling the stripes.",
+    "A flexible magnet's pull roughly halves for every two sheets of paper you put under it.",
+    "The paper that first described one-sided magnetic flux, in 1973, called it a curiosity in its title.",
+    "Magnets fall off many stainless-steel fridges because grade 304 stainless is mostly iron but not ferromagnetic."
+  ],
+  "sources": [
+    {
+      "title": "Refrigerator magnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refrigerator_magnet"
+    },
+    {
+      "title": "Halbach array",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Halbach_array"
+    },
+    {
+      "title": "J. C. Mallinson, One-sided fluxes: a magnetic curiosity? IEEE Transactions on Magnetics 9 (1973) 678–682",
+      "publisher": "IEEE",
+      "url": "https://doi.org/10.1109/TMAG.1973.1067714"
+    },
+    {
+      "title": "John C. Mallinson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_C._Mallinson"
+    },
+    {
+      "title": "Klaus Halbach",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Klaus_Halbach"
+    },
+    {
+      "title": "Ferrite (magnet)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ferrite_(magnet)"
+    },
+    {
+      "title": "TDK",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TDK"
+    },
+    {
+      "title": "Lodestone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lodestone"
+    },
+    {
+      "title": "Magnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnet"
+    },
+    {
+      "title": "De Magnete",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Magnete"
+    },
+    {
+      "title": "History of electromagnetic theory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_electromagnetic_theory"
+    },
+    {
+      "title": "Magnetic domain",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetic_domain"
+    },
+    {
+      "title": "Stainless steel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stainless_steel"
+    },
+    {
+      "title": "Refrigerator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refrigerator"
+    },
+    {
+      "title": "Refrigerator Safety Act",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Refrigerator_Safety_Act"
+    },
+    {
+      "title": "Alnico",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alnico"
+    },
+    {
+      "title": "Louis Néel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_N%C3%A9el"
+    },
+    {
+      "title": "US Patent 2,446,336: Magnetic refrigerator door closure and seal",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2446336A/en"
+    },
+    {
+      "title": "US Patent 2,770,472: Magnetic memo holders",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US2770472A/en"
+    },
+    {
+      "title": "About us: company history",
+      "publisher": "Max Baermann GmbH",
+      "url": "https://www.baermann.com/en/about-us/"
+    },
+    {
+      "title": "Flexible magnets",
+      "publisher": "Max Baermann GmbH",
+      "url": "https://www.baermann.com/en/magnets/flexible-magnets/"
+    },
+    {
+      "title": "Fridge Magnets and Memory, part 1",
+      "publisher": "Faine Greenwood (Substack)",
+      "url": "https://faineg.substack.com/p/fridge-magnets-and-memory-part-1"
+    },
+    {
+      "title": "Samarium–cobalt magnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet"
+    },
+    {
+      "title": "Neodymium magnet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neodymium_magnet"
+    },
+    {
+      "title": "Magnetic Poetry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetic_Poetry"
+    },
+    {
+      "title": "Largest collection of fridge magnets",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/68573-largest-collection-of-fridge-magnets"
+    },
+    {
+      "title": "Magnets in Cell Phones and Smart Watches May Affect Pacemakers and Other Implanted Medical Devices",
+      "publisher": "U.S. Food and Drug Administration",
+      "url": "https://www.fda.gov/radiation-emitting-products/cell-phones/magnets-cell-phones-and-smart-watches-may-affect-pacemakers-and-other-implanted-medical-devices"
+    },
+    {
+      "title": "Safety Standard for Magnets, final rule (16 CFR 1262), Federal Register 21 September 2022",
+      "publisher": "U.S. Consumer Product Safety Commission",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2022-09-21/html/2022-20200.htm"
+    },
+    {
+      "title": "Flexible Magnetic Sheet (data sheet)",
+      "publisher": "Adams Magnetic Products",
+      "url": "https://www.adamsmagnetic.com/wp-content/uploads/flexible-magnetic-sheet.pdf"
+    },
+    {
+      "title": "Magnetic field viewing film",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetic_field_viewing_film"
+    },
+    {
+      "title": "Curie temperature",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curie_temperature"
+    },
+    {
+      "title": "Petrus Peregrinus de Maricourt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Petrus_Peregrinus_de_Maricourt"
+    },
+    {
+      "title": "Leverage & Friction When Using Magnets",
+      "publisher": "K&J Magnetics",
+      "url": "https://www.kjmagnetics.com/blog/leverage-and-friction-when-using-magnets"
+    },
+    {
+      "title": "Credit Cards and Magnetic Stripes",
+      "publisher": "K&J Magnetics",
+      "url": "https://www.kjmagnetics.com/blog/magnetic-credit-card-stripes"
+    }
+  ]
+}

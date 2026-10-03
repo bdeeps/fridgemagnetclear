@@ -1,0 +1,105 @@
+{
+  "slug": "fridgemagnetclear",
+  "box": 138,
+  "date": "2026-10-05",
+  "title": "FridgeMagnetClear",
+  "question": "How does a fridge magnet work?",
+  "hook": "The back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.",
+  "thumbText": "HOW A FRIDGE MAGNET WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "fridge magnet",
+    "refrigerator magnet",
+    "magnetism",
+    "Halbach array",
+    "ferrite",
+    "friction",
+    "magnetic field",
+    "neodymium magnet",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Rubber packed with ferrite powder",
+      "text": "A flat fridge magnet is a printed picture on a dark sheet less than a millimetre thick. The sheet is ferrite powder, a magnetic ceramic, bound in rubber or soft plastic. Each grain is a tiny magnet, and the factory lines them up in narrow stripes."
+    },
+    {
+      "title": "Stripes that turn: the one-sided trick",
+      "text": "The back is not one north pole. It is stripes about 2 mm wide, north, south, north, south, with the magnetism turning step by step in between. That pattern, a Halbach array, adds the field up on the back and nearly cancels it on the printed front."
+    },
+    {
+      "title": "You can feel and see the stripes",
+      "text": "Slide two fridge magnets back to back and they jump along in steps of about 4 mm, as the stripes attract, repel and attract again. A green magnetic viewing film shows a bright line at every boundary between stripes."
+    },
+    {
+      "title": "The steel door becomes a mirror magnet",
+      "text": "A fridge door is painted steel. The stripes line up the magnetic domains in the steel so it becomes a mirror image of the magnet, and the two pull together. The field of narrow stripes fades fast: the pull halves about every 0.2 mm of gap, and it does nothing on aluminium or 304 stainless steel."
+    },
+    {
+      "title": "Friction does the lifting",
+      "text": "The magnet pulls into the door, not upwards. That squeeze makes friction, and friction, roughly a third of the pull, is what carries the weight. Add sheets of paper and the pull collapses while the weight grows, until everything slides."
+    },
+    {
+      "title": "Hard magnets reach further",
+      "text": "A ceramic or neodymium disc has one pole on each face, so its field reaches centimetres instead of millimetres. Fridge magnets do not raise your electricity bill or wipe your phone. Small strong magnets are dangerous if swallowed, and should be kept 15 cm from a pacemaker."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Ferrite",
+      "def": "A dark magnetic ceramic made from iron oxide with strontium or barium. Cheap, rust-proof, and the powder inside flexible magnets."
+    },
+    {
+      "term": "Flexible magnet",
+      "def": "Ferrite powder, up to about 90% by weight, bound in rubber or plastic so the magnet bends and cuts with scissors."
+    },
+    {
+      "term": "Pole pitch",
+      "def": "The distance from a north stripe to the next south stripe on the back of the sheet: about 2 mm."
+    },
+    {
+      "term": "Halbach array",
+      "def": "Magnets whose direction turns step by step, so the field is strong on one side and nearly zero on the other."
+    },
+    {
+      "term": "Ferromagnetic",
+      "def": "Describes materials like iron and most steel, whose magnetic domains line up near a magnet so that it pulls them."
+    },
+    {
+      "term": "Domain",
+      "def": "A tiny region inside iron or steel in which all the atomic magnets point the same way."
+    },
+    {
+      "term": "Coefficient of friction",
+      "def": "The most friction two surfaces can give, as a fraction of the force pressing them together. About 0.3 for paper on a painted door."
+    },
+    {
+      "term": "Neodymium magnet",
+      "def": "The strongest kind of permanent magnet, made of neodymium, iron and boron. A button-sized disc pulls with over a kilogram."
+    },
+    {
+      "term": "Curie point",
+      "def": "The temperature above which a magnet loses its magnetism for good. About 450 °C for ferrite."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "fridgemagnetclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

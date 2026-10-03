@@ -1,0 +1,126 @@
+{
+  "slug": "fridgemagnetclear",
+  "box": 138,
+  "question": "How does a fridge magnet work?",
+  "url": "https://glassbox.how/e/fridgemagnetclear/",
+  "app": "https://glassbox.how/fridgemagnetclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,600 years from a stone that pulls iron to a printed sheet of stripes that holds up the shopping list.\n\n600 BCE: A stone that pulls iron\n1088: The magnetic needle, written down\n1600: The Earth itself is a magnet\n1906: Domains: tiny magnets inside iron\n1927: A steel box in the kitchen\n1930: Ferrite: a magnet made of rust\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/fridgemagnetclear/history (link in bio)\n\nThen play with how it works: glassbox.how/fridgemagnetclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fridgemagnet #refrigeratormagnet #magnetism #halbacharray #ferrite #friction #history",
+      "youtube": {
+        "title": "The history of the fridge magnet in 45 seconds #shorts",
+        "description": "2,600 years from a stone that pulls iron to a printed sheet of stripes that holds up the shopping list.\n\n600 BCE · A stone that pulls iron (Thales of Miletus (credited))\n1088 · The magnetic needle, written down (Shen Kuo)\n1600 · The Earth itself is a magnet (William Gilbert)\n1906 · Domains: tiny magnets inside iron (Pierre-Ernest Weiss)\n1927 · A steel box in the kitchen (General Electric)\n1930 · Ferrite: a magnet made of rust (Yogoro Kato and Takeshi Takei)\n\n▶ Full history: https://glassbox.how/e/fridgemagnetclear/history/\n▶ Play with it: https://glassbox.how/e/fridgemagnetclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a fridge magnet work?\n\nThe back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.\n\n→ A fridge magnet is a picture on a thin sheet of rubber packed with ferrite powder.\n→ Its back is not one pole. It is stripes, north, south, north, south, each about 2 mm wide.\n→ Turn the magnetism round in steps and the field piles up on the back and almost vanishes from the front.\n→ Slide two fridge magnets back to back and they jump in steps: stripes attracting, then repelling.\n→ The steel door becomes a mirror image of the stripes, and the field lines dive straight into it.\n\nPlay with it yourself. It's free and open source: glassbox.how/fridgemagnetclear (link in bio)\n\nBox No. 138 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fridgemagnet #refrigeratormagnet #magnetism #halbacharray #ferrite #friction #magneticfield #neodymiummagnet #threejs",
+    "carousel": "Swipe through: How does a fridge magnet work?\n\nThe back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.\n\nSave this for later, then play with the interactive version at glassbox.how/fridgemagnetclear (link in bio).\n\nBox No. 138 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fridgemagnet #refrigeratormagnet #magnetism #halbacharray #ferrite #friction",
+    "youtube": {
+      "title": "How does a fridge magnet work? #shorts",
+      "description": "The back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.\n\n▶ Play with it: https://glassbox.how/e/fridgemagnetclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fridgemagnetclear\n\nBox No. 138 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a fridge magnet work? (interactive explainer)",
+      "description": "The back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.\n\n▶ Play with the interactive version: https://glassbox.how/e/fridgemagnetclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fridgemagnetclear\n\nIn this video:\n• Rubber packed with ferrite powder. A flat fridge magnet is a printed picture on a dark sheet less than a millimetre thick.\n• Stripes that turn: the one-sided trick. The back is not one north pole.\n• You can feel and see the stripes. Slide two fridge magnets back to back and they jump along in steps of about 4 mm, as the stripes attract, repel and attract again.\n• The steel door becomes a mirror magnet. A fridge door is painted steel.\n• Friction does the lifting. The magnet pulls into the door, not upwards.\n• Hard magnets reach further. A ceramic or neodymium disc has one pole on each face, so its field reaches centimetres instead of millimetres.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a fridge magnet work?\n\nThe back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side.\n\nPlay with it: https://glassbox.how/e/fridgemagnetclear/",
+    "linkedin": "How does a fridge magnet work?\n\nThe back of a fridge magnet is not one pole but hundreds of thin stripes, turned so that all the field comes out of one side. See the real field lines, feel why two magnets jump in steps, and run a load test to find what actually holds your shopping list up: friction.\n\n1. Rubber packed with ferrite powder\n2. Stripes that turn: the one-sided trick\n3. You can feel and see the stripes\n4. The steel door becomes a mirror magnet\n5. Friction does the lifting\n6. Hard magnets reach further\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 138 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/fridgemagnetclear/\nCode: https://github.com/bdeeps/fridgemagnetclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T09:52:10.471Z"
+}
